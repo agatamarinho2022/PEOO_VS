@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OL5dw1qwrTYnH/OuyOuHx/Eqo8velY7kRhFo+au5Ab39RBmXEvCoDm47Ap+0id+azJjQTbqImH97Olw2Qdmwcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\20221011110043\\source\\repos\\Aula3\\RetanguloApp\\RetanguloApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20221011110043\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
